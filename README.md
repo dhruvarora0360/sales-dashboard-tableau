@@ -11,6 +11,9 @@ This is an interactive **Sales Dashboard** created using Tableau to visualize bu
 ## 🔗 Live Dashboard
 👉 [Click to View on Tableau Public](https://public.tableau.com/app/profile/dhruv.arora7048/viz/Tablau_project_17543325213750/SalesDashboard?publish=yes)
 
+## 🖼️ Dashboard Preview
+![Dashboard Preview]()
+
 ## 🛠️ Tools Used
 - Tableau Desktop
 - Tableau Public
